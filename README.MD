@@ -29,3 +29,6 @@ Underline 2.
 - <a href="http://www.google.com">Esto es un link html</a>
 - [Esto es un link en Markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imágenes
+![Logo Github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
