@@ -5,15 +5,24 @@
 ##### Cabecera H5
 ###### Cabecera H6
 
+# Underlines
 Underline 1.
 -----------
 
 Underline 2.
 =========
 
+# Formato de enfásis
 - formato *italica* de primer forma.
 - formato _italica_ de segunda forma.
 -formato **bold o strong** de primer forma.
 - formato __bold o strong__ de segunda forma.
 -formato ~~tachado~~.
+
+# Listas
+1. Esto es un ítem
+2. Esto es un ítem
+3. Esto es un ítem 
+- Esto es un ítem de lista ordenada
+
 
