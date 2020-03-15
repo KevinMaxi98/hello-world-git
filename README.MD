@@ -80,3 +80,10 @@ export  $initHighlight;
 | Maxi | Burgos | 3456887
 | Tomás | Tompson | 5856549
 
+# Citas
+Esto es un texto referente a una cita: 
+> Esto es una cita.
+
+Esto es otro texto que se relaciona con la cita anterior: 
+> Esto es otra cita
+
